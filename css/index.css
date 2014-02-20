@@ -2,6 +2,22 @@
 /* MOBILE STYLES */
 @media screen and (max-width:480px) {
 
+  .clearfix .title {
+    float: none;
+  }
+
+  .clearfix .first-nav {
+    float: none;
+  }
+
+  article {
+    float: none;
+  }
+
+  aside {
+    float: none;
+  }
+
 }
 
 /* DESKTOP STYLES */ 
@@ -31,7 +47,7 @@
   }  
 
   .clearfix .first-nav ul {
-    display: inline-block;
+    display: inline;
   }
 
   .clearfix .first-nav ul li {
