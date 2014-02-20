@@ -1,0 +1,17 @@
+body {
+  width: 62.5%;
+}
+
+img {
+  /*width: 100%;*/
+}
+
+article {
+  float: left;
+  width:800px;
+}
+
+aside {
+  float: right;
+  width: 400px;
+}
